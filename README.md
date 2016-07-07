@@ -1,2 +1,2 @@
 # Cytoscape
-cyREST scripst
+cyREST scripts
