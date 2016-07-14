@@ -7,6 +7,8 @@ In the network_from_csv IPYNB you can find functions that allow you to create Cy
 
 #Final SalmNet Functions
 Does not cotain py2cytoscape or networkx
-salm_net_cy.ipynb has the functions to create cytoscape files from '.csv' files in a directory with adding a custom style. 
+
+salm_net_cy.ipynb has the functions to create cytoscape files from '.csv' files in a directory with adding a custom style
+
 network_from_csv_cons function is only used for consensus network files
     
